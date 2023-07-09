@@ -8,3 +8,6 @@ Will be updated later.
 Will be updated later.
 ### 4. Future Scope
 Thoughts on how you could have improved the solution.
+
+
+Please refer the rag.ipynb and newly organized dataset in the data input_data.json
