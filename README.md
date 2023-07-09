@@ -10,4 +10,4 @@ Will be updated later.
 Thoughts on how you could have improved the solution.
 
 
-Please refer the rag.ipynb and newly organized dataset in the data input_data.json
+Please refer the rag.ipynb for the execution steps and newly organized dataset in the data input_data.json
