@@ -1,0 +1,6 @@
+jupyterlab==4.0.2
+farm-haystack==1.17.2
+farm-haystack[faiss]==1.17.2
+openpyxl
+deep-translator==1.11.4
+langdetect==1.0.9
